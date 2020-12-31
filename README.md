@@ -1,1 +1,1 @@
-# jam-digital-ds3231
+# JAM DIGITAL OLED LCD
